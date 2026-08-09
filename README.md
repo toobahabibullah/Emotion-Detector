@@ -49,7 +49,6 @@ The dataset contains no null values after preprocessing and duplicate records ar
 * Scikit-learn
 * Matplotlib
 * Regular Expressions (Regex)
-* Jupyter Notebook
 
 ## Machine Learning Pipeline
 
